@@ -1,0 +1,9 @@
+# Spring data mongo testing c using Kotlin
+
+
+This Kotlin project create an api rest using spring data mongo
+using new CoroutineCrudRepository.
+
+## Prerequisites
+
+* Java 17, maven 3 installed.
