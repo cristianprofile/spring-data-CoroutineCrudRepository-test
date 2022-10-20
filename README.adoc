@@ -1,4 +1,4 @@
-# Spring data mongo testing c using Kotlin
+# Spring data mongo testing CoroutineCrudRepository using Kotlin
 
 
 This Kotlin project create an api rest using spring data mongo
